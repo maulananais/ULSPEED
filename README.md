@@ -2,8 +2,6 @@
 
 Welcome to **ULSPEED**, a sleek and animated command-line speed test tool that measures your internet connection's download speed, upload speed, and ping latency, all while displaying a cool logo and progress animation.
 
-![ULSPEED Logo](https://your-logo-link-here) <!-- You can add a relevant image link -->
-
 ## Features ✨
 
 - **ANSI Logo Animation**: Enjoy a custom animated logo while running the test.
@@ -58,15 +56,15 @@ Provider    : PT Telkom
 
 Measuring download speed...
 [########################################] 100%
-Download Speed : 50.12 Mbps
+Download Speed : 112.12 Mbps
 
 Measuring upload speed...
 [########################################] 100%
-Upload Speed   : 10.34 Mbps
+Upload Speed   : 55.34 Mbps
 
 Measuring ping latency...
 [########################################] 100%
-Ping Latency   : 25.34 ms
+Ping Latency   : 1.34 ms
 
 Thank you for using ULSPEED for your speedtest!
 ```
