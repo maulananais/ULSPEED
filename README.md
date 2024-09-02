@@ -14,7 +14,7 @@ Welcome to **ULSPEED**, a sleek and animated command-line speed test tool that m
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/ulspeed.git
+   git clone https://github.com/maulananais/ulspeed.git
    ```
 2. **Navigate to the project directory**:
    ```bash
@@ -80,5 +80,3 @@ Contributions are welcome! Feel free to fork this repository, open an issue, or 
 ---
 
 **ULSPEED** is designed with simplicity and style in mind. Whether you're just curious about your internet speed or need to troubleshoot a connection, ULSPEED gives you the information you need with a touch of flair.
-
-```
