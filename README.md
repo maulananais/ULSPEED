@@ -12,6 +12,43 @@ Welcome to **ULSPEED**, a sleek and animated command-line speed test tool that m
 
 ## Installation 💻
 
+### Install Python
+
+#### Windows
+
+1. **Download Python**: Go to the [Python official website](https://www.python.org/downloads/) and download the latest Python installer for Windows.
+2. **Run the Installer**: Execute the installer and check the box "Add Python to PATH" before clicking "Install Now".
+3. **Verify Installation**: Open Command Prompt and run:
+   ```bash
+   python --version
+   ```
+
+#### macOS
+
+1. **Download Python**: Go to the [Python official website](https://www.python.org/downloads/) and download the latest Python installer for macOS.
+2. **Run the Installer**: Execute the downloaded `.pkg` file and follow the instructions.
+3. **Verify Installation**: Open Terminal and run:
+   ```bash
+   python3 --version
+   ```
+
+#### Linux
+
+1. **Update Package List**: Open Terminal and run:
+   ```bash
+   sudo apt update
+   ```
+2. **Install Python**: Run:
+   ```bash
+   sudo apt install python3
+   ```
+3. **Verify Installation**: Run:
+   ```bash
+   python3 --version
+   ```
+
+### Install Dependencies
+
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/maulananais/ulspeed.git
@@ -20,23 +57,48 @@ Welcome to **ULSPEED**, a sleek and animated command-line speed test tool that m
    ```bash
    cd ulspeed
    ```
-3. **Install dependencies**:
-   Make sure you have `speedtest-cli` installed.
+3. **Install `speedtest-cli`**:
+   Make sure you have `speedtest-cli` installed. Run:
    ```bash
    pip install speedtest-cli
    ```
-4. **Run the script**:
+
+### Run the Script
+
+#### Windows
+
+Run:
    ```bash
-   python ulspeed.py
+   py ulspeed.py
+   ```
+
+#### macOS
+
+Run:
+   ```bash
+   python3 ulspeed.py
+   ```
+
+#### Linux
+
+Run:
+   ```bash
+   python3 ulspeed.py
    ```
 
 ## Usage 🛠️
 
 Simply run the script and follow the on-screen prompts. ULSPEED will handle the rest, from server selection to speed measurements. The process is visualized with an animated logo and progress bar for an engaging experience.
 
-```bash
-python ulspeed.py
-```
+## Error Handling ⚠️
+
+If you encounter a **403 Forbidden** error or if the system fails to get a stable connection, follow these steps:
+
+1. **Refresh Connection**: Visit [speedtest.net](https://www.speedtest.net) and start a test to refresh your connection.
+2. **Rerun the Script**: After refreshing, run the script again:
+   - **Windows**: `py ulspeed.py`
+   - **macOS**: `python3 ulspeed.py`
+   - **Linux**: `python3 ulspeed.py`
 
 ## Example Output 📊
 
@@ -72,6 +134,13 @@ Thank you for using ULSPEED for your speedtest!
 ## License ⚖️
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements 🙏
+
+A big thanks to:
+1. **Allah SWT** for the blessings and guidance.
+2. **My parents** for their endless support and encouragement.
+3. **Speedtest.net** for providing the reliable testing service.
 
 ## Contributing 👥
 
