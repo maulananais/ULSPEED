@@ -76,7 +76,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing 👥
 
 Contributions are welcome! Feel free to fork this repository, open an issue, or submit a pull request.
-
----
-
-**ULSPEED** is designed with simplicity and style in mind. Whether you're just curious about your internet speed or need to troubleshoot a connection, ULSPEED gives you the information you need with a touch of flair.
