@@ -82,7 +82,3 @@ Contributions are welcome! Feel free to fork this repository, open an issue, or 
 **ULSPEED** is designed with simplicity and style in mind. Whether you're just curious about your internet speed or need to troubleshoot a connection, ULSPEED gives you the information you need with a touch of flair.
 
 ```
-
-### Tips:
-- Replace `"https://your-logo-link-here"` with a link to a relevant logo image, or you can remove that section if you don't have an image.
-- You might want to customize the example output to match the typical results in your area.
